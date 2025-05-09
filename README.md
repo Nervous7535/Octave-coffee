@@ -14,7 +14,7 @@ Welcome to the official repo for **Octave Coffee**, the sassiest pour-over guide
 ## 🔐 Privacy
 
 We don’t collect *anything*. Seriously. No names, no emails, no trackers.  
-🕵️‍♂️ [Read our Privacy Policy](https://Nervous7535.github.io/octave-coffee/privacy-policy.html)
+🕵️‍♂️ [Read our Privacy Policy](https://nervous7535.github.io/Octave-coffee/privacy-policy.html)
 
 ## 📱 App Store
 
